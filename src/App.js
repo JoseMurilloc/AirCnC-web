@@ -10,7 +10,7 @@ function App() {
     <div className="container">
       <img src={logo} alt="AirCnC"/>
 
-      <div className="contant">
+      <div className="content">
          <Routes />
       </div>
     </div>
